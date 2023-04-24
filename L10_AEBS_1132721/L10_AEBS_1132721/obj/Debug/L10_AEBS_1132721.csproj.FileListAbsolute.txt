@@ -1,0 +1,8 @@
+C:\Users\Ainar\source\repos\L10_AEBS_1132721\L10_AEBS_1132721\bin\Debug\L10_AEBS_1132721.exe.config
+C:\Users\Ainar\source\repos\L10_AEBS_1132721\L10_AEBS_1132721\bin\Debug\L10_AEBS_1132721.exe
+C:\Users\Ainar\source\repos\L10_AEBS_1132721\L10_AEBS_1132721\bin\Debug\L10_AEBS_1132721.pdb
+C:\Users\Ainar\source\repos\L10_AEBS_1132721\L10_AEBS_1132721\obj\Debug\L10_AEBS_1132721.csproj.AssemblyReference.cache
+C:\Users\Ainar\source\repos\L10_AEBS_1132721\L10_AEBS_1132721\obj\Debug\L10_AEBS_1132721.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ainar\source\repos\L10_AEBS_1132721\L10_AEBS_1132721\obj\Debug\L10_AEBS_1132721.csproj.CoreCompileInputs.cache
+C:\Users\Ainar\source\repos\L10_AEBS_1132721\L10_AEBS_1132721\obj\Debug\L10_AEBS_1132721.exe
+C:\Users\Ainar\source\repos\L10_AEBS_1132721\L10_AEBS_1132721\obj\Debug\L10_AEBS_1132721.pdb
