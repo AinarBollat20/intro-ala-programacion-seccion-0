@@ -1,0 +1,11 @@
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\L8_Forms_AEBS_1132721\bin\Debug\L8_Forms_AEBS_1132721.exe.config
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\L8_Forms_AEBS_1132721\bin\Debug\L8_Forms_AEBS_1132721.exe
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\L8_Forms_AEBS_1132721\bin\Debug\L8_Forms_AEBS_1132721.pdb
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\L8_Forms_AEBS_1132721\obj\Debug\L8_Forms_AEBS_1132721.csproj.AssemblyReference.cache
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\L8_Forms_AEBS_1132721\obj\Debug\L8_Forms_AEBS_1132721.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\L8_Forms_AEBS_1132721\obj\Debug\L8_Forms_AEBS_1132721.Form1.resources
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\L8_Forms_AEBS_1132721\obj\Debug\L8_Forms_AEBS_1132721.Properties.Resources.resources
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\L8_Forms_AEBS_1132721\obj\Debug\L8_Forms_AEBS_1132721.csproj.GenerateResource.cache
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\L8_Forms_AEBS_1132721\obj\Debug\L8_Forms_AEBS_1132721.csproj.CoreCompileInputs.cache
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\L8_Forms_AEBS_1132721\obj\Debug\L8_Forms_AEBS_1132721.exe
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\L8_Forms_AEBS_1132721\obj\Debug\L8_Forms_AEBS_1132721.pdb
