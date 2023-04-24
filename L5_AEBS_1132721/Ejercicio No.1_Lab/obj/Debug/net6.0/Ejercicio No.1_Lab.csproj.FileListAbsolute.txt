@@ -1,0 +1,15 @@
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio No.1_Lab\obj\Debug\net6.0\Ejercicio No.1_Lab.csproj.AssemblyReference.cache
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio No.1_Lab\obj\Debug\net6.0\Ejercicio No.1_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio No.1_Lab\obj\Debug\net6.0\Ejercicio No.1_Lab.AssemblyInfoInputs.cache
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio No.1_Lab\obj\Debug\net6.0\Ejercicio No.1_Lab.AssemblyInfo.cs
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio No.1_Lab\obj\Debug\net6.0\Ejercicio No.1_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio No.1_Lab\bin\Debug\net6.0\Ejercicio No.1_Lab.exe
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio No.1_Lab\bin\Debug\net6.0\Ejercicio No.1_Lab.deps.json
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio No.1_Lab\bin\Debug\net6.0\Ejercicio No.1_Lab.runtimeconfig.json
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio No.1_Lab\bin\Debug\net6.0\Ejercicio No.1_Lab.dll
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio No.1_Lab\bin\Debug\net6.0\Ejercicio No.1_Lab.pdb
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio No.1_Lab\obj\Debug\net6.0\Ejercicio No.1_Lab.dll
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio No.1_Lab\obj\Debug\net6.0\refint\Ejercicio No.1_Lab.dll
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio No.1_Lab\obj\Debug\net6.0\Ejercicio No.1_Lab.pdb
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio No.1_Lab\obj\Debug\net6.0\Ejercicio No.1_Lab.genruntimeconfig.cache
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio No.1_Lab\obj\Debug\net6.0\ref\Ejercicio No.1_Lab.dll

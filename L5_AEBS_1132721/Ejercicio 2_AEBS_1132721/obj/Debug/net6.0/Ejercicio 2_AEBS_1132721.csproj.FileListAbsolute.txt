@@ -1,0 +1,15 @@
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio 2_AEBS_1132721\bin\Debug\net6.0\Ejercicio 2_AEBS_1132721.exe
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio 2_AEBS_1132721\bin\Debug\net6.0\Ejercicio 2_AEBS_1132721.deps.json
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio 2_AEBS_1132721\bin\Debug\net6.0\Ejercicio 2_AEBS_1132721.runtimeconfig.json
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio 2_AEBS_1132721\bin\Debug\net6.0\Ejercicio 2_AEBS_1132721.dll
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio 2_AEBS_1132721\bin\Debug\net6.0\Ejercicio 2_AEBS_1132721.pdb
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio 2_AEBS_1132721\obj\Debug\net6.0\Ejercicio 2_AEBS_1132721.csproj.AssemblyReference.cache
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio 2_AEBS_1132721\obj\Debug\net6.0\Ejercicio 2_AEBS_1132721.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio 2_AEBS_1132721\obj\Debug\net6.0\Ejercicio 2_AEBS_1132721.AssemblyInfoInputs.cache
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio 2_AEBS_1132721\obj\Debug\net6.0\Ejercicio 2_AEBS_1132721.AssemblyInfo.cs
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio 2_AEBS_1132721\obj\Debug\net6.0\Ejercicio 2_AEBS_1132721.csproj.CoreCompileInputs.cache
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio 2_AEBS_1132721\obj\Debug\net6.0\Ejercicio 2_AEBS_1132721.dll
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio 2_AEBS_1132721\obj\Debug\net6.0\refint\Ejercicio 2_AEBS_1132721.dll
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio 2_AEBS_1132721\obj\Debug\net6.0\Ejercicio 2_AEBS_1132721.pdb
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio 2_AEBS_1132721\obj\Debug\net6.0\Ejercicio 2_AEBS_1132721.genruntimeconfig.cache
+C:\Users\Ainar Bollat\Desktop\Introduccion a la progamacion\Ejercicio 2_AEBS_1132721\obj\Debug\net6.0\ref\Ejercicio 2_AEBS_1132721.dll
